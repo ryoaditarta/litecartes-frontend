@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "litecartes",
+    "slug": "litecartes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/spashScreens/icons/splashscreens.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/spashScreens/icons/splashscreens.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFD4B8"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/spashScreens/icons/splashscreens.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/spashScreens/icons/splashscreens.png"
+    },
+    "fonts": {
+      "Nunito": [
+        "./assets/fonts/Nunito-Regular.ttf",
+        "./assets/fonts/Nunito-Bold.ttf"
+      ]
+    }
+  }
+}
